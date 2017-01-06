@@ -258,7 +258,12 @@ class PreferenceControllerDelegate implements SeekBar.OnSeekBarChangeListener, V
         this.maxValue = maxValue;
 
         if (seekBarView != null) {
-            seekBarView.setMax(maxValue - minValue);
+            if ((minValue >= 0 && maxValue > minValue)) {
+                seekBarView.setMax(maxValue - minValue);
+            }
+            else {
+                seekBarView.setMax(maxValue);
+            }
 
             seekBarView.setProgress(currentValue - minValue);
         }
