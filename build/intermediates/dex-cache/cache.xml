@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_70a394cd78c1583b719c59a962276d59d5020bae.jar" />
+    </item>
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_e9f6d9130c07f928ea4cc07b4537090751605d47.jar" />
+    </item>
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5469cbced8cd82c2e371620fc4bf9a2b7e42ab0d.jar" />
+    </item>
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\MaterialSeekBarPreference\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e69e062b50fd1a27fddd7641e594e6a0cc6b4ef7">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\MaterialSeekBarPreference-library-unspecified_28bfc7813ed98d9f1544631b0f437acba19afb4b.jar" />
+    </item>
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_f009c7e57ba0cb83ee388f107751fcf56531c85a.jar" />
+    </item>
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_6d23f9e508dff51d66dcd338a645e4477f8c644e.jar" />
+    </item>
+    <item
+        jar="C:\Users\hagermch\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_3b4e72a9c3a9e4b580299556162aa20643bbb6d1.jar" />
+    </item>
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_8a589b36ba7ce1fcfff73b109471e7638a5bf4e6.jar" />
+    </item>
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_19e0e1d3ba903363e157dd870536b4a88cbaea42.jar" />
+    </item>
+    <item
+        jar="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\exploded-aar\com.android.support\preference-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b954d8588de65c67c1ec482678620845bbb5f737">
+        <dex dex="C:\SPE\personal\repos\MaterialSeekBarPreference\sample\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-23.4.0_26d154e6b048e3e6308e10b70a76005e28efad4e.jar" />
+    </item>
+
+</items>
